@@ -10,7 +10,7 @@
 
 ### Overview of files
 
-#### [Scraping Training Notebook](/scraping_training_notebook.ipynb)
+### [Scraping Training Notebook](/scraping_training_notebook.ipynb)
 
 This notebook uses Beautiful Soup to scrape data from [Books to Scrape](https://books.toscrape.com/), a sandbox website for scrape training.
 The data scraped was books from website catalogue ranging from page 1 until page 50 and can be found [here](/scraping_results2.csv). 
