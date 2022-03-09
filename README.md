@@ -4,9 +4,9 @@
 
 ### Some of the libraries used are:
 
-- [ ] Beautiful Soup for webscrapping
-- [ ] Pandas for Dataframe building, modifications, transformations and data preparation
-- [ ] SQLite 3 as local database for storing scrapped data
+- [X] Beautiful Soup for webscrapping
+- [X] Pandas for Dataframe building, modifications, transformations and data preparation
+- [X] SQLite 3 as local database for storing scrapped data
 
 ### Overview of files
 
